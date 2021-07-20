@@ -1,0 +1,32 @@
+.nav-item{
+    width: 10rem;
+    font-size: 14px;
+    cursor: pointer;    
+}    
+.navbar-brand{
+    font-size: 20px;
+    font-weight: bold;
+}
+@media screen and (max-width: 900px) {
+    .nav-item{
+        width: 8rem;
+    }
+
+}
+@media screen and (max-width: 600px) {
+    .nav-item{
+        width: 4rem;
+    }   
+    .navbar-brand{
+        font-size: 18px;
+    } 
+    .logotxt{
+        font-size: 16px;
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .logotxt{
+        font-size: 14px;
+    }
+  }
+

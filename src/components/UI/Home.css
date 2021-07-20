@@ -1,0 +1,27 @@
+.table{
+    margin: 10% auto;
+    width: 80%;
+}
+.ag-theme-alpine{
+    margin: 10% auto;
+    width: 100%;  
+    height: 600px;
+}
+.last-upd-date{
+    color: #6c757d;
+    font-weight: 600;
+    margin: 0;
+    animation-delay: 500ms;
+    font-size: 14px;
+}
+.last-upd-date span{
+    padding:2px;
+}
+.last-upd-date span:hover{
+    background-color:coral;
+    color:black;
+    border-radius: 2px;
+}
+.india{
+    color: #e23028;
+}
