@@ -2,7 +2,7 @@ var config = {
     apiKey: "{YOUR KEY}",
     authDomain: "{YOUR KEY}",
     databaseName: "CovidResources",
-    covid19URL : "{YOUR API URI}"
+    covid19URL : "https://api.covid19india.org/data.json"
   }
 
   
